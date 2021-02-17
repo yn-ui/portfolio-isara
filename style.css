@@ -25,7 +25,7 @@ p, h1, h2, h3 {
   background-repeat: no-repeat;
   background-position: center bottom;
   height: 600px;
-  background-image: url(../img/main.jpg);
+  background-image: url(https://user-images.githubusercontent.com/72715705/108191840-f5ce5b80-7156-11eb-8fd1-adf2e46e7e5a.png);
 }
 @media (max-width: 768px) {
   .main-visual {
