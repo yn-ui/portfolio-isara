@@ -25,11 +25,11 @@ p, h1, h2, h3 {
   background-repeat: no-repeat;
   background-position: center bottom;
   height: 600px;
-  background-image: url(https://user-images.githubusercontent.com/72715705/108191840-f5ce5b80-7156-11eb-8fd1-adf2e46e7e5a.png);
+  background-image: url(https://user-images.githubusercontent.com/72715705/108191992-18607480-7157-11eb-9a9e-fc348e485953.jpg);
 }
 @media (max-width: 768px) {
   .main-visual {
-    background-image: url(../img/mainsp.jpg);
+    background-image: url(https://user-images.githubusercontent.com/72715705/108191999-1991a180-7157-11eb-94cf-7133a112dba1.jpg);
     height: 500px;
   }
 }
@@ -341,7 +341,7 @@ p, h1, h2, h3 {
 .about-content-top {
   padding: 40px 0;
   text-align: center;
-  background-image: url(../img/introbottom.jpg);
+  background-image: url(https://user-images.githubusercontent.com/72715705/108191975-14345700-7157-11eb-8169-684ba606e414.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -556,7 +556,7 @@ p, h1, h2, h3 {
   font-weight: bold;
   padding: 40px 0;
   text-align: center;
-  background-image: url(../img/aboutsecondbg.jpg);
+  background-image: url(https://user-images.githubusercontent.com/72715705/108191915-08489500-7157-11eb-8381-99f6dfc7efd8.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1079,7 +1079,7 @@ p, h1, h2, h3 {
 
 .member {
   padding: 40px 55px;
-  background-image: url(../img/teacherbg.jpg);
+  background-image: url(https://user-images.githubusercontent.com/72715705/108192031-1f878280-7157-11eb-95c8-163c0ed7e519.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1095,7 +1095,7 @@ p, h1, h2, h3 {
 @media (max-width: 768px) {
   .member {
     padding: 20px 0;
-    background-image: url(../img/teacherbgsp.jpg);
+    background-image: url(https://user-images.githubusercontent.com/72715705/108192053-244c3680-7157-11eb-994f-f7ed15e0b847.jpg);
   }
 }
 @media (max-width: 1280px) {
@@ -1424,7 +1424,7 @@ p, h1, h2, h3 {
 }
 
 .schedule {
-  background-image: url(../img/classbg.jpg);
+  background-image: url(https://user-images.githubusercontent.com/72715705/108191946-0e3e7600-7157-11eb-92d3-166af5ea817b.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1769,7 +1769,7 @@ p, h1, h2, h3 {
 }
 
 .why-bangkok {
-  background-image: url(../img/bangkokbg.jpg);
+  background-image: url(https://user-images.githubusercontent.com/72715705/108191938-0d0d4900-7157-11eb-9252-b3437042d358.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1784,7 +1784,7 @@ p, h1, h2, h3 {
 @media (max-width: 768px) {
   .why-bangkok {
     padding: 20px 15px;
-    background-image: url(../img/bangkokbgsp.jpg);
+    background-image: url(https://user-images.githubusercontent.com/72715705/108191942-0da5df80-7157-11eb-9835-d52189328af0.jpg);
   }
 }
 .why-bangkok-title {
@@ -2014,7 +2014,7 @@ p, h1, h2, h3 {
 }
 
 .volunteer {
-  background-image: url(../img/specialdetail.jpg);
+  background-image: url(https://user-images.githubusercontent.com/72715705/108192022-1dbdbf00-7157-11eb-8629-d1f1c0471de9.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -2025,7 +2025,7 @@ p, h1, h2, h3 {
 @media (max-width: 768px) {
   .volunteer {
     padding: 20px 10px;
-    background-image: url(../img/specialdetailsp.jpg);
+    background-image: url(https://user-images.githubusercontent.com/72715705/108192024-1e565580-7157-11eb-80a5-f582abcb6911.jpg);
   }
 }
 @media (max-width: 768px) {
